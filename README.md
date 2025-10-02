@@ -3,9 +3,6 @@ Best collection of sora prompts.
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
-<a href="https://github.com/YourUsername/awesome-sora/stargazers">
-  <img src="https://img.shields.io/github/stars/YourUsername/awesome-sora?style=social" alt="GitHub stars">
-</a>
 
 🎉 欢迎来到 🎬 Sora 视频精选！
 

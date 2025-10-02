@@ -15,10 +15,6 @@ Best collection of sora prompts.
 
 <strong>→ 喜欢就点 Star 🌟 支持一下哦！</strong>
 
-## 赞助商 Sponsors
-
-💡 **推荐工具**：想要快速体验各种 AI 视频生成模型？推荐使用 [推荐工具网址](https://example.com) 网站，支持多种主流模型的视频生成，提供超多精美模板，并支持自定义提示词创作！
-
 ---
 ## 🤖 Sora vs 其他视频生成模型对比版本
 

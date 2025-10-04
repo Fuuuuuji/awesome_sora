@@ -102,8 +102,9 @@ Old mobile phone video style with low resolution: From the passenger seat view, 
 ### 案例 3：上世纪80年代电视报道Sora - REMIX with animals (by [Fuuuuuji](https://github.com/Fuuuuuji))
 **效果演示**
 
-https://github.com/user-attachments/assets/2d58e21c-ec07-4fcc-a273-0945b5535326
+https://github.com/user-attachments/assets/5026cead-62a1-4d2f-a916-d4fc8f3c28fd
 
+https://github.com/user-attachments/assets/7ce7520e-55a9-4eed-8694-41461df0fe99
 
 **提示词**
 
@@ -114,7 +115,7 @@ A 1980s-style report with grainy visuals, voiceover narration, and footage of la
 **Remix**
 
 ```plaintext
-Replace the people with cows and horses heads.
+Replace the people with cows and horses heads and don't change other things.
 ```
 
 ---

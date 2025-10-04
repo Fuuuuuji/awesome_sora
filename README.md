@@ -6,7 +6,7 @@ Best collection of sora prompts.
 
 欢迎来到 Sora 视频精选！
 
-这是一个精选的 OpenAI Sora 生成视频与提示词合集。借助 OpenAI 的前沿视频生成模型，全面展示 Sora 在 AI 视频生成与编辑方面的先进能力，并不断探索创意表达的新可能。案例主要来源于 Twitter/X 和各大 AI 社区，希望这些案例能为您带来启发，为你的灵感加速。
+这是一个精选的 OpenAI Sora 生成视频与提示词合集，全面展示 Sora 在 AI 视频生成与编辑方面的先进能力，并不断探索创意表达的新可能。案例主要来源于 Twitter/X 和各大 AI 社区，希望这些案例能为您带来启发，为你的灵感加速。
 
 喜欢就点 Star 🌟 支持一下哦！
 
@@ -71,8 +71,8 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 *   [案例 5：吉卜力风格动画 (by @creator_name)](#cases-5)
 *   [案例 4：传统婚礼场景 (by @creator_name)](#cases-4)
 *   [案例 3：复古风格短片 (by @creator_name)](#cases-3)
-*   [案例 2：3D人物动画 (by @creator_name)](#cases-2)
-*   [案例 1：浪漫场景短片 (by @creator_name)](#cases-1)
+*   [案例 2：旧手机录像猎奇视频 (by @creator_name)](#cases-2)
+*   [案例 1：监控摄像头写实风格 (by @creator_name)](#cases-1)
 
 ---
 
@@ -90,6 +90,18 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 
 ```
 
+<a id="cases-2"></a>
+### 案例 2：旧手机录像猎奇视频 (by )
+**效果演示**
+
+
+**提示词**
+
+```plaintext
+
+```
+
+---
 <a id="how-to-contribute"></a>
 ## 🤝 如何贡献
 

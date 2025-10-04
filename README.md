@@ -63,8 +63,8 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
-*   [案例 2：旧手机录像猎奇视频 (by @creator_name)](#cases-2)
 *   [案例 1：监控摄像头写实风格 (by @creator_name)](#cases-1)
+*   [案例 2：旧手机录像猎奇视频 (by @creator_name)](#cases-2)
 
 ---
 
@@ -74,7 +74,6 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 <a id="cases-1"></a>
 ### 案例 1：监控摄像头写实风格 (by )
 **效果演示**
-
 
 **提示词**
 
@@ -94,6 +93,7 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 ```
 
 ---
+
 <a id="how-to-contribute"></a>
 ## 🤝 如何贡献
 

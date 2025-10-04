@@ -34,7 +34,7 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 - 🔧 **精准控制**：以极致精度添加或替换视频元素，完美处理遮挡关系和光影影响  
 - 🌐 **深度3D理解**：能"看到"2D提示中的3D结构，进行真正的空间感知创作
 - 🎬 **风格一致性**：基于文本描述构建风格完全统一的"视觉世界"
-- ✨ **协作式创作**：从"主仆对话"进化为创作者间的"灵感沟通"
+- ✨ **Remix - 协作式创作**：通过Remix功能，观看者可以直接与创作者互动，从"主仆对话"进化为创作者间的"灵感沟通"
 
 <a id="other-models-intro"></a>
 
@@ -64,8 +64,9 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
-*   [案例 1：监控摄像头写实风格 (by @creator_name)](#cases-1)
-*   [案例 2：旧手机录像猎奇视频 (by @creator_name)](#cases-2)
+*   [案例 1：监控摄像头写实风格 (by @Fuuuuuji)](#cases-1)：特殊风格、纪实、猎奇
+*   [案例 2：旧手机录像猎奇视频 (by @Fuuuuuji)](#cases-2)：特殊风格、纪实、猎奇
+*   [案例 3：上世纪80年代报道Sora - REMIX with animals (by @Rory Flynn)](#cases-3)：特殊风格、虚构、IP、Remix
 
 ---
 
@@ -85,7 +86,7 @@ https://github.com/user-attachments/assets/c3ab63e2-2755-4c9d-8108-de27d9eae69b
 ```
 
 <a id="cases-2"></a>
-### 案例 2：旧手机录像猎奇视频 (by [Fuuuuuji](https://github.com/Fuuuuuji))
+### 案例 2：旧手机录像猎奇视频 (by [Rory Flynn](https://x.com/Ror_Fly/status/1974173242014249314))
 **效果演示**
 
 https://github.com/user-attachments/assets/b4d7ae64-5c33-421d-b294-192526764422
@@ -95,6 +96,25 @@ https://github.com/user-attachments/assets/b4d7ae64-5c33-421d-b294-192526764422
 
 ```plaintext
 Old mobile phone video style with low resolution: From the passenger seat view, a car driving on a mountain road suddenly encounters falling rocks. The hood is hit, smoke and dust rise everywhere, and the person in the video gasps nervously.
+```
+
+<a id="cases-3"></a>
+### 案例 3：上世纪80年代电视报道Sora - REMIX with animals (by [Fuuuuuji](https://github.com/Fuuuuuji))
+**效果演示**
+
+https://github.com/user-attachments/assets/2d58e21c-ec07-4fcc-a273-0945b5535326
+
+
+**提示词**
+
+```plaintext
+A 1980s-style report with grainy visuals, voiceover narration, and footage of labs and early AI use. CRT screens, retro graphics, and VHS effects depict the launch of Sora 2, a breakthrough in text-to-video generation.
+```
+
+**Remix**
+
+```plaintext
+Replace the people with cows and horses heads.
 ```
 
 ---

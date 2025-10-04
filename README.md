@@ -127,8 +127,13 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 <a id="star-history"></a>
 ## 🌟 Star历史
 
-
-![STARS](https://www.star-history.com/#Fuuuuuji/awesome_sora&Date)
+<a href="https://www.star-history.com/#Fuuuuuji/awesome_sora&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Fuuuuuji/awesome_sora&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Fuuuuuji/awesome_sora&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Fuuuuuji/awesome_sora&type=Timeline" />
+ </picture>
+</a>
 
 ---
 

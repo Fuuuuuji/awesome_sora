@@ -73,13 +73,15 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 ## 🧩 案例
 
 <a id="cases-1"></a>
-### 案例 1：监控摄像头写实风格 (by )
+### 案例 1：监控摄像头写实风格 (by [Fuuuuuji](https://github.com/Fuuuuuji))
 **效果演示**
+
+https://github.com/user-attachments/assets/c3ab63e2-2755-4c9d-8108-de27d9eae69b
 
 **提示词**
 
 ```plaintext
-
+ night vision, home security camera: in the yard 2 cats are playing on the trampoline
 ```
 
 <a id="cases-2"></a>

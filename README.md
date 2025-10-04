@@ -83,14 +83,16 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 ```
 
 <a id="cases-2"></a>
-### 案例 2：旧手机录像猎奇视频 (by )
+### 案例 2：旧手机录像猎奇视频 (by [Fuuuuuji](https://github.com/Fuuuuuji))
 **效果演示**
+
+https://github.com/user-attachments/assets/b4d7ae64-5c33-421d-b294-192526764422
 
 
 **提示词**
 
 ```plaintext
-
+Old mobile phone video style with low resolution: From the passenger seat view, a car driving on a mountain road suddenly encounters falling rocks. The hood is hit, smoke and dust rise everywhere, and the person in the video gasps nervously.
 ```
 
 ---

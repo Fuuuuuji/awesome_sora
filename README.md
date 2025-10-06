@@ -67,6 +67,9 @@ Sora 是 OpenAI 推出的革命性 AI 视频生成模型，代表了从"AI绘画
 *   [案例 1：监控摄像头写实风格 (by @Fuuuuuji)](#cases-1)：特殊风格、纪实、猎奇
 *   [案例 2：旧手机录像猎奇视频 (by @Fuuuuuji)](#cases-2)：特殊风格、纪实、猎奇
 *   [案例 3：上世纪80年代报道Sora - REMIX with animals (by @Rory Flynn)](#cases-3)：特殊风格、虚构、IP、Remix
+*   [案例 4：玩滑板的哈吉米（猫）(by @Fuuuuuji)](#cases-4)：纪实风格、宠物、跟随运动
+*   [案例 5：行车记录仪拍摄到的UFO(by @Fuuuuuji)](#cases-4)：特殊风格、UFO、光影变换
+
 
 ---
 
@@ -116,6 +119,32 @@ A 1980s-style report with grainy visuals, voiceover narration, and footage of la
 
 ```plaintext
 Replace the people with cows and horses heads and don't change other things.
+```
+
+<a id="cases-4"></a>
+### 案例 4：玩滑板的哈吉米（猫） (by [Fuuuuuji](https://github.com/Fuuuuuji))
+**效果演示**
+
+https://github.com/user-attachments/assets/95f0ffb0-c84a-4f05-bb82-d88f711428b2
+
+**提示词**
+
+```plaintext
+This footage, captured with a handheld camera using a documentary - style zoom lens, shows a cat skateboarding on a city sidewalk. The perspective is a low - angle, eye - level view, and the midday lighting is evident. The shot is taken from inside a car, with part of the vehicle visible in the frame, as the car travels along the road.
+```
+
+<a id="cases-5"></a>
+### 案例 5：行车记录仪拍摄到的UFO (by [Fuuuuuji](https://github.com/Fuuuuuji))
+**效果演示**
+
+https://github.com/user-attachments/assets/ef889ce0-396a-4a38-a6de-150a49659bac
+
+
+
+**提示词**
+
+```plaintext
+Dashcam at night, low video quality with obvious grain and noise. Driving on a highway, a large truck is visible right beside the vehicle. Distant mountains silhouette against the dark sky, with scattered stars overhead. Suddenly, a faint, flickering moving light appears — it moves rapidly in an S-pattern across the frame, then vanishes instantly.
 ```
 
 ---
